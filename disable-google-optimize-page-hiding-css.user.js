@@ -8,7 +8,7 @@
 // @author       masshiro
 // @match        http://*/*
 // @match        https://*/*
-// @grant        MIT
+// @grant        none
 // @run-at       document-body
 // @noframes     
 // ==/UserScript==

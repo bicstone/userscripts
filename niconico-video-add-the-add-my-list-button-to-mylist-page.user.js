@@ -8,7 +8,7 @@
 // @author       masshiro
 // @match        http://www.nicovideo.jp/mylist/*
 // @match        https://www.nicovideo.jp/mylist/*
-// @grant        MIT
+// @grant        none
 // ==/UserScript==
 
 (function () {

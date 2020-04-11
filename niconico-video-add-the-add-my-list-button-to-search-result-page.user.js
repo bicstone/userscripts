@@ -10,7 +10,7 @@
 // @match        https://www.nicovideo.jp/search/*
 // @match        http://www.nicovideo.jp/tag/*
 // @match        https://www.nicovideo.jp/tag/*
-// @grant        MIT
+// @grant        none
 // ==/UserScript==
 (function () {
     'use strict';

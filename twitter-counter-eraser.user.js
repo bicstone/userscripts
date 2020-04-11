@@ -7,7 +7,7 @@
 // @version      20200411
 // @author       masshiro
 // @match        https://twitter.com/*
-// @grant        MIT
+// @grant        none
 // ==/UserScript==
 
 (function() {
