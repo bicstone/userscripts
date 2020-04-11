@@ -4,8 +4,9 @@
 // @description  Add the "Add My List" button to niconico video mylist page
 // @description:ja マイリストページからマイリストするボタンを追加
 // @namespace    masshiro.blog
-// @version      20200411
+// @version      20200412
 // @author       masshiro
+// @license      MIT License
 // @match        http://www.nicovideo.jp/mylist/*
 // @match        https://www.nicovideo.jp/mylist/*
 // @grant        none

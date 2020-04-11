@@ -4,8 +4,9 @@
 // @description  Hide the Twitter's Reply/Favorite/Retweet Counter. [The new UI is not supported at the moment]
 // @description:ja Twitterから、リプライ/お気に入り/リツイートのカウンターを削除。他人の承認が見てられない人のためのプラグインです。※新UIには今の所対応しておりません。
 // @namespace    masshiro.blog
-// @version      20200411
+// @version      20200412
 // @author       masshiro
+// @license      MIT License
 // @match        https://twitter.com/*
 // @grant        none
 // ==/UserScript==

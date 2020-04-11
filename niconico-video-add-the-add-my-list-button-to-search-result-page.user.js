@@ -4,8 +4,9 @@
 // @description  Add the "Add My List" button to niconico video search result page
 // @description:ja 検索結果ページページからマイリストするボタンを追加
 // @namespace    masshiro.blog
-// @version      20200411
+// @version      20200412
 // @author       masshiro
+// @license      MIT License
 // @match        http://www.nicovideo.jp/search/*
 // @match        https://www.nicovideo.jp/search/*
 // @match        http://www.nicovideo.jp/tag/*

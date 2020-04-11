@@ -4,8 +4,9 @@
 // @description  Disable Google Optimize page-hiding CSS.The homepage using Google Optimize will show up quickly.
 // @description:ja Google Optimize page-hiding CSSを無効にします。Google Optimizeを使用しているホームページが、素早く表示されるようになります。
 // @namespace    masshiro.blog
-// @version      20200411
+// @version      20200412
 // @author       masshiro
+// @license      MIT License
 // @match        http://*/*
 // @match        https://*/*
 // @grant        none
